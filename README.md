@@ -60,9 +60,9 @@ The system is built using a multi-tier architecture comprising:
 The Hospital Management System streamlines hospital operations, ensuring efficient patient management, accurate diagnosis recording, and improved administrative task handling. With its user-friendly interface and robust functionalities, the system contributes to enhanced healthcare services.
 
 ## Screenshots
-![Login](Screenshots\Login.png)
+![Login](Screenshots/Login.png)
 ![Home](Screenshots/Home.png)
-![Add Patient](Screenshots\AddPatient.png)
-![Add Diagnosis](Screenshots\AddDiagnosis.png)
-![History](Screenshots\History.png)
-![Update Info](Screenshots\Update.png)
+![Add Patient](Screenshots/AddPatient.png)
+![Add Diagnosis](Screenshots/AddDiagnosis.png)
+![History](Screenshots/History.png)
+![Update Info](Screenshots/Update.png)
